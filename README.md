@@ -139,7 +139,7 @@
   
 - **담당 페이지**
 
-   : [바른먹거리](https://seoulw.vercel.app/),
+   : [바른먹거리](https://ytk27.github.io/Green-B-Project/food_rule),
 
   ${\color{#cccccc}(클릭\ 시\ 해당\ 페이지로\ 이동합니다.)}$
 
