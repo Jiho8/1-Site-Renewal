@@ -27,13 +27,13 @@
 
 
 
-## 🙌 담당 직무(개인수정)
+## 🙌 담당 직무
 | 이름   | GitHub                              | 직무              |해당 |
 |:--------:|:---------------------------------------:|:-------------------:|:----:|
 | 김도연 | [doyeon](https://github.com/dododoodo) | 팀장 |     |
-| **여태경** | [taekyung](https://github.com/ytk27) | 개발 |   ✔   |
-| 천지호 | [jiho](https://github.com/jiho8) | 디자인 |    |
-| 황수빈 | [subin](https://github.com/subin75) | 기획 |       |
+| 여태경 | [taekyung](https://github.com/ytk27) | 개발 |     |
+| **천지호** | [jiho](https://github.com/jiho8) | 디자인 |  ✔  |
+| 황수빈 | [subin](https://github.com/subin75) | 기획 |      |
 
 
 
@@ -129,19 +129,18 @@
 [Pulmuone Final report](https://docs.google.com/document/d/1aJEeiRj6KTTmHOR-td0581_aCYqC4mwfAMuKh7tZVO4/edit?usp=sharing)
 
 ---
-# 담당 개발 상세 : (개인수정)
+# 담당 개발 상세 :
 
 ## 📑 요약
 
 - **담당 직무**
 
-   : 개발
+   : 디자인
   
 - **담당 페이지**
 
-   : [메인](https://seoulw.vercel.app/),
-  [에러페이지](https://seoulw.vercel.app/err),
-  [이용약관](https://seoulw.vercel.app/policy)
+   : [바른먹거리](https://seoulw.vercel.app/),
+
   ${\color{#cccccc}(클릭\ 시\ 해당\ 페이지로\ 이동합니다.)}$
 
 - **역할** 
