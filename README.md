@@ -213,4 +213,7 @@
 ## 📱 스크린샷
 
 ![pulmuone_mockup_02](https://github.com/user-attachments/assets/8cf42992-7847-495a-8225-2dbf7efa922b)
+![rule](https://github.com/user-attachments/assets/b0e08c05-e5e0-4a85-9cfc-a31542bd97cf)
+![campaign](https://github.com/user-attachments/assets/0d662c13-5a88-4744-8102-e62de2118502)
+![safety](https://github.com/user-attachments/assets/6e9f4650-218e-44c3-9f79-10b414c21e0e)
 
