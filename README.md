@@ -157,20 +157,6 @@
     - 일관되지 않게 표현된 부분과 디테일한 수정 사항을 찾아내어 개선
    
 
-
-## ✏ 기획
-- 모달 팝업의 텍스트를 줄여 가독성을 높임
-- 유사한 구조의 소메뉴 컨텐츠는 script를 활용하여 데이터를 뿌리는 형태로 작업.
-- 문서화 : [B)웹사이트_리뉴얼_기획서_풀무원](https://docs.google.com/presentation/d/e/2PACX-1vR5VPkQ1mR0KS6bb1eYuVnzi95pDo6kexc94bRYxFM4BBCfuYx11tBjU9lqW0g7zikAamNoRTxBID9V/pub?start=false&loop=false&delayms=3000)
-
-<details>
-  <summary>$\bf{{\color{#0969DA}정보\ 설계:\ 구조}}$</summary>
-  
-  ![풀무원_정보설계구조](https://github.com/user-attachments/assets/335bf8a3-bb83-46f2-bf95-6ca56044bb0a)
-</details>
-
-
-
 ## 💥 트러블 슈팅
 1. 서브메뉴 반응형 작업을 위해 스크롤 생성 중, offsetLeft 값이 클릭할 때 잠깐 보이고 사라지는 이슈
 
